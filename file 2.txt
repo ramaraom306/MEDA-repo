@@ -1,0 +1,11 @@
+touch f1
+
+git add f1
+
+git status
+
+
+git commit -m "label"
+
+git log
+
